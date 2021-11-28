@@ -1,4 +1,4 @@
-//look below to find first solution i try it 
+//  look below to find first solution i try it 
 
 var productExceptSelf = function (array) {
 	const result = []
